@@ -1,0 +1,11 @@
+[
+  {
+    "listResultProductModel": null,
+    "totalAmount": 300,
+    "totalCost": 225,
+    "totalDiscount": 75,
+    "percentDiscount": 60,
+    "discount": 15,
+    "discountDetail": "Kullanıcı, mağaza çalışanı olduğu için %30 indirim (60 $) uygulandı.Faturadaki her 100 Dolar için 5 Dolarlık bir indirim (15 $) uygulandı."
+  }
+]

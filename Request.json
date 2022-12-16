@@ -1,0 +1,37 @@
+{
+  "userDTO": {
+    "userName": "burcuakmaz",
+    "name": "burcu",
+    "surname": "akmaz",
+    "eMail": "",
+    "membershipDate": "2022-11-15T11:08:32.244Z",
+    "isEmployee": true,
+    "isMember": false
+  },
+  "listProductDTO": [
+    {
+      "name" : "ürün1",
+      "quantity": 1,
+      "price": 10,
+      "isGrocery": true
+    },
+    {
+      "name" : "ürün3",
+      "quantity": 3,
+      "price": 30,
+      "isGrocery": true
+    },
+    {
+      "name" : "ürün2",
+      "quantity": 2,
+      "price": 20,
+      "isGrocery": false
+    },
+    {
+      "name" : "ürün4",
+      "quantity": 4,
+      "price": 40,
+      "isGrocery": false
+    }
+  ]
+}
